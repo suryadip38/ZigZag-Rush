@@ -4,10 +4,11 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - platform: {instanceID: 0}
+  - platform: {fileID: 1510696982081171139, guid: 1a0dda2459431c949b8b4eeeb21cbbe3,
+      type: 3}
   - diamonds: {fileID: 2063259461716197299, guid: aa83f7d6a59a60e48b7d632d159115b8,
       type: 3}
-  - enemy: {instanceID: 0}
+  - spike: {fileID: 8609591524721291353, guid: 45baf2404aecf7146ae2db855a6267ca, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

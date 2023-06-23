@@ -53,8 +53,8 @@ public class PlatformSpawner : MonoBehaviour
             SpawnZ();
         }
 
-        int spikeRand = Random.Range(0, 5);
-        if (spikeRand == 0)
+        int spikeRand = Random.Range(0, 100);
+        if (spikeRand < 15)
         {
             SpawnSpike();
         }

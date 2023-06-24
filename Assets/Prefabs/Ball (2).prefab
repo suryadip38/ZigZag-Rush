@@ -127,4 +127,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   particle: {fileID: 2960665975926127981, guid: d34984da59fab62469d2301698ff57ae,
     type: 3}
-  speed: 8
+  speed: 6

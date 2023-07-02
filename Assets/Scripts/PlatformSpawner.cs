@@ -58,7 +58,7 @@ public class PlatformSpawner : MonoBehaviour
         {
             SpawnSpike();
         }
-
+         
         void SpawnSpike()
         {
             Vector3 pos = lastPos;
